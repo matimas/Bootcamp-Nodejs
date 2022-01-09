@@ -34,7 +34,7 @@
 // const summ = sum(2, 2);
 // console.log(summ);
 
-// console.log(helloName("Ernest"));
+// console.log(helloName("mati"));
 
 // 5. Import the file system module using the import syntax.
 // import fs from "fs";
