@@ -87,7 +87,7 @@ const food = (arr) => {
 
 console.log(food(data));
 
-//where it fails from the debugging console:
+//where it fails from the debugging console: using Node Debugger/chrome-inspect
 //{
 // Uncaught TypeError: foodObj.forEach is not a function
 // at VM98 6.1.js:76:13
