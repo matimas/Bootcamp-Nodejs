@@ -1,18 +1,20 @@
 {
-  "name": "main",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "axios": "^0.24.0",
-    "chalk": "^5.0.0",
-    "fetch": "^1.1.0",
-    "request": "^2.88.2",
-    "yargs": "^17.3.1"
-  }
+	"name": "main",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"type": "module",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"axios": "^0.24.0",
+		"chalk": "^5.0.0",
+		"express": "^4.17.2",
+		"fetch": "^1.1.0",
+		"request": "^2.88.2",
+		"yargs": "^17.3.1"
+	}
 }
