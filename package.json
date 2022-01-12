@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/matimas/Bootcamp-Nodejs/issues"
   },
-  "homepage": "https://github.com/matimas/Bootcamp-Nodejs#readme"
+  "homepage": "https://github.com/matimas/Bootcamp-Nodejs#readme",
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
 }
