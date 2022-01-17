@@ -1,0 +1,11 @@
+[
+	{ "id": 1, "name": "dani", "cash": 0, "credit": 50 },
+	{ "id": 2, "name": "erni", "cash": 300, "credit": 1000 },
+	{ "id": 3, "name": "shaked", "cash": 200, "credit": 100 },
+	{ "id": 4, "name": "mati", "cash": 200, "credit": 1000 },
+	{ "id": 10, "name": "rotem", "cash": 10, "credit": 10 },
+	{ "id": 5, "name": "dan", "cash": 450, "credit": 200 },
+	{ "id": 11, "name": "fida", "cash": 150, "credit": 500 },
+	{ "id": 9, "name": "shani", "cash": 150, "credit": 450 },
+	{ "id": 21, "name": "barak", "cash": 150, "credit": 450 }
+]
