@@ -10,7 +10,7 @@ const commentSchema = new Schema({
 
 const postSchema = new Schema({
 	post: String,
-	comments: commentSchema,
+	comments: [commentSchema],
 });
 
 const userSchema = new Schema({

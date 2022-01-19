@@ -1,27 +1,59 @@
 const users = [
 	{
 		username: 'shaked',
-		useremail: 'shjdj@erere.vom',
-		userpost: {
-			post: 'shaked post',
-			comments: [
-				{
-					content: 'ernest like your post',
-				},
-			],
-		},
+		useremail: 'shaked@erere.vom',
+		userposts: [
+			{
+				post: 'shaked post',
+				comments: [
+					{
+						content: 'ernest liked your post',
+					},
+				],
+			},
+		],
 	},
 	{
 		username: 'daniel',
-		useremail: 'sdandj@erere.com',
-		userpost: {
-			post: 'daniel post',
-			comments: [
-				{
-					content: 'shaked like your post',
-				},
-			],
-		},
+		useremail: 'daniel@erere.com',
+		userposts: [
+			{
+				post: 'daniel post',
+				comments: [
+					{
+						content: 'shaked liked your post',
+					},
+				],
+			},
+		],
+	},
+	{
+		username: 'shani',
+		useremail: 'shani@erere.com',
+		userposts: [
+			{
+				post: 'shani post',
+				comments: [
+					{
+						content: 'rotem liked your post',
+					},
+				],
+			},
+		],
+	},
+	{
+		username: 'rotem',
+		useremail: 'rotem@erere.com',
+		userposts: [
+			{
+				post: 'daniel post',
+				comments: [
+					{
+						content: 'shani liked your post',
+					},
+				],
+			},
+		],
 	},
 ];
 
